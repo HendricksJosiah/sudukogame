@@ -10,8 +10,8 @@ public class Sudoku {
     String welcomeMessage =
               "\n\t***********************************************************************"
             + "\n\t* Welcome to the game of Sudoku!                                      *"       
-            + "\n\t* More text should go here...                                         *"
-            + "\n\t*                                                                     *"
+            + "\n\t* Here You will be tested on you ability to think analytically        *"
+            + "\n\t* and solve for the missing values.                                   *"
             + "\n\t* Good Luck!!!                                                        *"
             + "\n\t***********************************************************************"
             + "\n";
